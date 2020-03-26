@@ -1,0 +1,22 @@
+{
+  "name": "pizzabox",
+  "version": "1.0.0",
+  "description": "online multiplayer game for quarantine",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdicrist/pizzaBox.git"
+  },
+  "author": "Ricki DiCristoforo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdicrist/pizzaBox/issues"
+  },
+  "homepage": "https://github.com/rdicrist/pizzaBox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
